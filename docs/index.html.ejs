@@ -666,7 +666,7 @@
         class under the title bar.
       </p>
 
-      <%- example(` <div class="window" style="width: 300px">
+      <%- example(` <div class="window" style="width: 320px">
         <div class="title-bar">
           <div class="title-bar-text">A Window With Stuff In It</div>
           <div class="title-bar-controls">
@@ -676,6 +676,14 @@
           </div>
         </div>
         <div class="window-body">
+          <ul class="menu-bar" role="menubar" aria-label="Window menu">
+            <li role="menuitem" tabindex="0"><u>F</u>ile</li>
+            <li role="menuitem" tabindex="0"><u>E</u>dit</li>
+            <li role="menuitem" tabindex="0"><u>V</u>iew</li>
+            <li role="menuitem" tabindex="0"><u>G</u>o</li>
+            <li role="menuitem" tabindex="0">F<u>a</u>vorites</li>
+            <li role="menuitem" tabindex="0"><u>H</u>elp</li>
+          </ul>
           <p>There's so much room for activities!</p>
         </div>
         </div>
