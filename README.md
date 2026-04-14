@@ -2,7 +2,7 @@
 
 一套兼顾情怀&还原度&可爱的经典UI复刻方案
 
-<img alt="window" src="https://cdn.jsdelivr.net/gh/sooooooooooooooooootheby/98-pink.css@0.0.2/docs/window.png" height="133">
+<img alt="window" src="https://cdn.jsdelivr.net/gh/meorionel/98-pink.css@0.0.2/docs/window.png" height="133">
 
 ### 这是什么
 
@@ -15,7 +15,7 @@
 通过cdn导入!
 
 ```bash
-https://cdn.jsdelivr.net/gh/sooooooooooooooooootheby/98-pink.css@0.0.2/css/98-pink.css
+https://cdn.jsdelivr.net/gh/meorionel/98-pink.css/dist/98-pink.css
 ```
 
 ### 开发

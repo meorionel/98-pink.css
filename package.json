@@ -15,19 +15,22 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/sooooooooooooooooootheby/98-pink.css.git"
+		"url": "git+https://github.com/meorionel/98-pink.css.git"
 	},
 	"keywords": [
 		"css",
 		"windows98",
 		"pink"
 	],
-	"author": "Jordan Scales <scalesjordan@gmail.com>",
+	"author": "Meorion <me@meorion.moe>",
+	"contributors": [
+		"Jordan Scales <scalesjordan@gmail.com>"
+	],
 	"license": "MIT",
 	"bugs": {
-		"url": "https://github.com/sooooooooooooooooootheby/98-pink.css/issues"
+		"url": "https://github.com/meorionel/98-pink.css/issues"
 	},
-	"homepage": "https://github.com/sooooooooooooooooootheby/98-pink.css",
+	"homepage": "https://github.com/meorionel/98-pink.css",
 	"devDependencies": {
 		"chokidar": "^3.3.1",
 		"cssnano": "^5.0.1",
